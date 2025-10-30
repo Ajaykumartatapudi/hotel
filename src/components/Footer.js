@@ -11,7 +11,7 @@ const Footer = () => {
             <div className="col-md-3 col-sm-6 mb-4">
               <h5 className="footer-heading">Top Destinations</h5>
               <ul className="footer-list">
-                <li>Hotels in United States of America</li>
+                <li>Hotels in Mumbai</li>
                 <li>Hotels in Andhra Pradesh</li>
                 <li>Hotels in Telangana</li>
                 <li>Hotels in Kerala</li>
